@@ -1,6 +1,6 @@
 ## oproxy - TCP прокси-сервер хранилища конфигураций 1С
 
-Написан на нативном OneScript. Вдохновлен [winow](https://github.com/autumn-library/winow)
+Написан на [OneScript](https://github.com/EvilBeaver/OneScript). Вдохновлен [winow](https://github.com/autumn-library/winow)
 
 Для работы прокси-сервера необходимо установить и настроить [tcp сервер хранилищ 1С](https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/)
 
@@ -110,4 +110,4 @@ oproxy start --proxy-port 2555 --storage-server localhost --storage-port 2544
 Про Linux и MacOS не знаю - буду рад отзывам!
 
 ### Приятного использования!
-Если вы нашли ошибку работы в прокси или хотите в него добавить какой-то функционал - пожалуйста, напишите в issues. Если у вас есть желание доработать/отрефакторить прокси - ждем ваших pull requests <3
+Если вы нашли ошибку работы в прокси или хотите в него добавить какой-то функционал - пожалуйста, напишите в [issues](https://github.com/infina15/oproxy/issues). Если у вас есть желание доработать/отрефакторить прокси - ждем ваших [pull requests](https://github.com/infina15/oproxy/pulls) <3
